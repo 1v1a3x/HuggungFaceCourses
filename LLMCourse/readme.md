@@ -1,0 +1,1 @@
+The course codebase on Colab <https://colab.research.google.com/drive/1jeHsYXFOAw3SHUoxqi3XdvBCm_diL-zL#scrollTo=uG1ST3USRjJA>
